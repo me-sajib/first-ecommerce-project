@@ -39,3 +39,18 @@
 .cat3{
     background-image:  linear-gradient(221deg, #7cbddcc4, #c9d5f9);
 }
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card button{
+    border-radius: 3px;
+}
+
+#back-pack button{
+   border-radius: 8px;
+}
+#subscribe{
+    height: 300px;
+}
